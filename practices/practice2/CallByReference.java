@@ -1,3 +1,5 @@
+package practices.practice2;
+
 public class CallByReference {
 
 	public static class A {
