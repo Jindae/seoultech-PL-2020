@@ -3,3 +3,4 @@
 *.exe
 *.dSYM
 .metals
+.DS_Store
